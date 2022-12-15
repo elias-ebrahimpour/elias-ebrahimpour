@@ -2,7 +2,7 @@
 - 👀 I’m interested in Nobody
 - 🌱 I’m currently learning Nothing
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? Because of fucking internet in iran, with smoke
+- 📫 How to reach me? Because of *fucking internet in iran, with smoke*
 
 <!---
 elias-ebrahimpour/elias-ebrahimpour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
